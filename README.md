@@ -2,7 +2,7 @@
 
 Selamat datang di repositori **Kiro Demo POS**.
 
-Proyek ini adalah demonstrasi nyata penggunaan **Kiro** (AWS AI Assistant) untuk membangun perangkat lunak Point of Sale (POS) yang kompleks menggunakan pendekatan **Spec-Driven Development (SDD)**.
+Proyek ini adalah demonstrasi penggunaan **Kiro** (AWS AI Assistant) untuk membangun perangkat lunak Point of Sale (POS) yang kompleks menggunakan pendekatan **Spec-Driven Development (SDD)**.
 
 Aplikasi ini dibangun dari nol dengan menuliskan spesifikasi (Specs) terlebih dahulu, kemudian membiarkan Kiro meng-generate kode, tes, dan struktur database menggunakan stack modern: **Laravel Filament**, **Docker**, dan **PostgreSQL**.
 
