@@ -1,4 +1,4 @@
-# Kiro Demo POS - Spec-Driven Development Showcase
+# Kiro POS - Spec-Driven Development Showcase
 
 Selamat datang di repositori **Kiro Demo POS**.
 
